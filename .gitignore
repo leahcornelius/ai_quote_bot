@@ -1,0 +1,4 @@
+img/**
+login.json
+.vscode
+pycache/**
